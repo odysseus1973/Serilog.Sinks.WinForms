@@ -50,7 +50,7 @@
             this.LogGridView.Dock = System.Windows.Forms.DockStyle.Fill;
             this.LogGridView.Location = new System.Drawing.Point(0, 0);
             this.LogGridView.Name = "LogGridView";
-            this.LogGridView.ReadOnly = true;
+            this.LogGridView.ReadOnly = false;
             this.LogGridView.RowHeadersVisible = false;
             this.LogGridView.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect;
             this.LogGridView.Size = new System.Drawing.Size(358, 150);
